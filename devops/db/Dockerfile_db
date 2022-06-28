@@ -1,0 +1,5 @@
+FROM mdillon/postgis:9.5-alpine
+
+ENV LANG es_ES.UTF-8
+ENV LANGUAGE es_ES:en
+ENV LC_ALL es_ES.UTF-8
